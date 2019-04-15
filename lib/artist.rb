@@ -1,6 +1,5 @@
 class Artist
-
- name =  Artist.new()
+end
   
   
   
