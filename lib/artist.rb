@@ -1,6 +1,6 @@
 class Artist
 
-  Artist.new()
+ name =  Artist.new()
   
   
   
